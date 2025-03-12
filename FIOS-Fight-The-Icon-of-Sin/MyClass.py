@@ -581,7 +581,7 @@ def home_page():
     text = smallfont.render('quit', True, color1)
     start_text = smallfont.render('start', True, color1)
     verySmallfont = pygame.font.SysFont('Corbel', 25)
-    creators = verySmallfont.render('Created by ThatPersonAyuma', True, (255,255,255))
+    creators = verySmallfont.render('Created by ThatPersonAyuma & Sundays', True, (255,255,255))
     while True:
         mouse = pygame.mouse.get_pos()
         for ev in pygame.event.get():
@@ -607,7 +607,7 @@ def home_page():
 
         screen.blit(text , (width/2+45,height/2))
         screen.blit(start_text , (width/2+41,height//3))
-        screen.blit(creators, (500, 570))
+        screen.blit(creators, (388, 570))
         pygame.display.update()
 
 
