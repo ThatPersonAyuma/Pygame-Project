@@ -1,5 +1,5 @@
  ## HOW TO PLAY
-1. Download the folder (zip file) from this link: https://downgit.evecalm.com/#/home?url=https://github.com/ThatPersonAyuma/Pygame-Project/tree/main/FIOS-Fight-The-Icon-of-Sin\
+1. Download the folder (zip file) from this link: https://downgit.evecalm.com/#/home?url=https://github.com/ThatPersonAyuma/Pygame-Project/tree/main/FIOS-Fight-The-Icon-of-Sin  
    check if the file is not corrupted\
    sha256: c14ed263da497e66277ed42c3700f7c8f5a8a1d0652a4c0e481208bccf31998d\
    md5: 285b93946568afeedf3d6dcb3452c16d\
